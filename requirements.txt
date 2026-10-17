@@ -1,0 +1,9 @@
+matplotlib==3.11.2
+memory_profiler==0.61.0
+numpy==2.5.4
+pandas==3.0.6
+Pillow==13.0.0
+scikit_learn==1.9.1
+scipy==1.18.1
+skimage==0.0
+tqdm==4.70.1
